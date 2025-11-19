@@ -1,0 +1,421 @@
+source,target,tgt_lng
+User Interface,用户界面,zh-CN
+User Experience,用户体验,zh-CN
+Wireframe,线框图,zh-CN
+Prototype,原型,zh-CN
+Mockup,视觉稿,zh-CN
+User Flow,用户流程,zh-CN
+User Journey,用户旅程,zh-CN
+Persona,用户画像,zh-CN
+User Research,用户研究,zh-CN
+Usability Testing,可用性测试,zh-CN
+A/B Testing,A/B 测试,zh-CN
+Information Architecture,信息架构,zh-CN
+Navigation,导航,zh-CN
+Breadcrumb,面包屑导航,zh-CN
+Interaction Design,交互设计,zh-CN
+Visual Design,视觉设计,zh-CN
+Design System,设计系统,zh-CN
+Style Guide,样式指南,zh-CN
+Component Library,组件库,zh-CN
+Design Pattern,设计模式,zh-CN
+Accessibility,无障碍性,zh-CN
+Responsive Design,响应式设计,zh-CN
+Mobile First,移动优先,zh-CN
+Grid System,栅格系统,zh-CN
+Layout,布局,zh-CN
+Typography,排版,zh-CN
+Color Palette,调色板,zh-CN
+Iconography,图标系统,zh-CN
+White Space,留白,zh-CN
+Visual Hierarchy,视觉层次,zh-CN
+Call to Action,行动号召,zh-CN
+Landing Page,着陆页,zh-CN
+Hero Section,首屏区域,zh-CN
+Above the Fold,首屏,zh-CN
+Below the Fold,首屏以下,zh-CN
+Hamburger Menu,汉堡菜单,zh-CN
+Dropdown Menu,下拉菜单,zh-CN
+Modal,模态框,zh-CN
+Dialog,对话框,zh-CN
+Toast,轻提示,zh-CN
+Tooltip,工具提示,zh-CN
+Skeleton Screen,骨架屏,zh-CN
+Loading Spinner,加载动画,zh-CN
+Progress Bar,进度条,zh-CN
+Carousel,轮播图,zh-CN
+Accordion,手风琴,zh-CN
+Tab,标签页,zh-CN
+Card,卡片,zh-CN
+Badge,徽章,zh-CN
+Avatar,头像,zh-CN
+Sidebar,侧边栏,zh-CN
+Footer,页脚,zh-CN
+Header,页头,zh-CN
+Search Bar,搜索栏,zh-CN
+Filter,筛选器,zh-CN
+Sort,排序,zh-CN
+Pagination,分页,zh-CN
+Infinite Scroll,无限滚动,zh-CN
+Sticky Header,固定页头,zh-CN
+Floating Action Button,悬浮操作按钮,zh-CN
+Swipe Gesture,滑动手势,zh-CN
+Drag and Drop,拖放,zh-CN
+Scroll,滚动,zh-CN
+Zoom,缩放,zh-CN
+Pinch,捏合,zh-CN
+Tap,点击,zh-CN
+Long Press,长按,zh-CN
+Hover,悬停,zh-CN
+Focus,聚焦,zh-CN
+Click,点击,zh-CN
+Double Click,双击,zh-CN
+Right Click,右键点击,zh-CN
+Animation,动画,zh-CN
+Transition,过渡,zh-CN
+Micro-interaction,微交互,zh-CN
+Motion Design,动效设计,zh-CN
+Parallax Scrolling,视差滚动,zh-CN
+Empty State,空状态,zh-CN
+Error State,错误状态,zh-CN
+Success State,成功状态,zh-CN
+Loading State,加载状态,zh-CN
+Placeholder,占位符,zh-CN
+Default Value,默认值,zh-CN
+Form,表单,zh-CN
+Input Field,输入框,zh-CN
+Text Area,文本区域,zh-CN
+Checkbox,复选框,zh-CN
+Radio Button,单选按钮,zh-CN
+Toggle Switch,开关,zh-CN
+Slider,滑块,zh-CN
+Date Picker,日期选择器,zh-CN
+Color Picker,颜色选择器,zh-CN
+File Upload,文件上传,zh-CN
+Validation,验证,zh-CN
+Error Message,错误消息,zh-CN
+Contrast Ratio,对比度,zh-CN
+Readability,可读性,zh-CN
+Legibility,易读性,zh-CN
+Affordance,可供性,zh-CN
+Feedback,反馈,zh-CN
+Consistency,一致性,zh-CN
+Scalability,可扩展性,zh-CN
+Modularity,模块化,zh-CN
+Reusability,可复用性,zh-CN
+Design Token,设计令牌,zh-CN
+Spacing,间距,zh-CN
+Padding,内边距,zh-CN
+Margin,外边距,zh-CN
+Border Radius,圆角,zh-CN
+Shadow,阴影,zh-CN
+Opacity,不透明度,zh-CN
+Gradient,渐变,zh-CN
+Blur,模糊,zh-CN
+Overlay,遮罩层,zh-CN
+Breakpoint,断点,zh-CN
+Viewport,视口,zh-CN
+Resolution,分辨率,zh-CN
+Pixel Density,像素密度,zh-CN
+Retina Display,Retina 显示屏,zh-CN
+Dark Mode,深色模式,zh-CN
+Light Mode,浅色模式,zh-CN
+Theme,主题,zh-CN
+Brand Identity,品牌识别,zh-CN
+Logo,标志,zh-CN
+Favicon,网站图标,zh-CN
+Splash Screen,启动页,zh-CN
+Onboarding,引导流程,zh-CN
+Tutorial,教程,zh-CN
+Walkthrough,操作指引,zh-CN
+Dashboard,仪表板,zh-CN
+Widget,小部件,zh-CN
+Panel,面板,zh-CN
+Section,区块,zh-CN
+Container,容器,zh-CN
+Wrapper,包装器,zh-CN
+Divider,分隔线,zh-CN
+Spacer,间隔符,zh-CN
+Gutter,间隙,zh-CN
+Column,列,zh-CN
+Row,行,zh-CN
+Flex,弹性布局,zh-CN
+Grid,网格,zh-CN
+Accessible Design,无障碍设计,zh-CN
+Alignment,对齐,zh-CN
+Ascenders,上伸部,zh-CN
+Baseline,基线,zh-CN
+Bento Menu,宫格菜单,zh-CN
+Button,按钮,zh-CN
+Chunking,分块,zh-CN
+Comment Box,评论框,zh-CN
+Counters,计数器,zh-CN
+Critique,设计评审,zh-CN
+Date Time Picker,日期时间选择器,zh-CN
+Descenders,下伸部,zh-CN
+Döner Menu,多纳菜单,zh-CN
+Dropdown Button,下拉按钮,zh-CN
+Easing,缓动,zh-CN
+Feed,信息流,zh-CN
+Font,字体,zh-CN
+Form Field States,表单字段状态,zh-CN
+Full-Stack Designer,全栈设计师,zh-CN
+Gestalt Principles,格式塔原则,zh-CN
+Hierarchy,层次结构,zh-CN
+Icon,图标,zh-CN
+Informational Components,信息组件,zh-CN
+Input Control,输入控件,zh-CN
+Kebab Menu,烤肉串菜单,zh-CN
+Line Height,行高,zh-CN
+List Box,列表框,zh-CN
+Loader,加载器,zh-CN
+Meatball Menu,肉丸菜单,zh-CN
+Message Box,消息框,zh-CN
+Moodboard,情绪板,zh-CN
+Navigational Components,导航组件,zh-CN
+Plus Button,加号按钮,zh-CN
+Primary Button,主按钮,zh-CN
+Secondary Button,次按钮,zh-CN
+Scanning Pattern,扫描模式,zh-CN
+Search Field,搜索框,zh-CN
+Share Button,分享按钮,zh-CN
+Stepper,步进器,zh-CN
+Text Field,文本框,zh-CN
+Thumb Reachability,拇指可达性,zh-CN
+Type,字型,zh-CN
+Typeface,字体系列,zh-CN
+UI Elements,UI元素,zh-CN
+X-Height,x字高,zh-CN
+Affinity Map,亲和图,zh-CN
+Agile UX,敏捷UX,zh-CN
+UX Audit,UX审计,zh-CN
+Beta Testing,Beta测试,zh-CN
+Brainstorming,头脑风暴,zh-CN
+Card Sorting,卡片分类,zh-CN
+Case Study,案例研究,zh-CN
+Clickstream Analysis,点击流分析,zh-CN
+Cognitive Load,认知负荷,zh-CN
+Competitor Analysis,竞品分析,zh-CN
+Contextual Enquiry,情境调查,zh-CN
+Customer Experience,客户体验,zh-CN
+Dark Pattern,黑暗模式,zh-CN
+Decision Matrix,决策矩阵,zh-CN
+Design Debt,设计债,zh-CN
+Design Deliverables,设计交付物,zh-CN
+Design Sprint,设计冲刺,zh-CN
+Design Thinking,设计思维,zh-CN
+Diary Study,日记研究,zh-CN
+Documentation,文档,zh-CN
+Empathy,同理心,zh-CN
+Empathy Map,同理心地图,zh-CN
+End User,终端用户,zh-CN
+Ethical Design,道德设计,zh-CN
+Eye Tracking,眼动追踪,zh-CN
+Fidelity,保真度,zh-CN
+Flat Design,扁平化设计,zh-CN
+Focus Group,焦点小组,zh-CN
+Heatmap,热力图,zh-CN
+Heuristic Evaluation,启发式评估,zh-CN
+Hick's Law,希克定律,zh-CN
+How Might We,如何做到,zh-CN
+Ideation,构思,zh-CN
+Inclusive Design,包容性设计,zh-CN
+Intuitive Design,直觉设计,zh-CN
+Iterative Design,迭代设计,zh-CN
+Lean UX,精益UX,zh-CN
+Material Design,Material Design,zh-CN
+Mental Model,心智模型,zh-CN
+Microcopy,微文案,zh-CN
+MVP,最小可行产品,zh-CN
+Pain Point,痛点,zh-CN
+Paradox of Specificity,特异性悖论,zh-CN
+Problem Statement,问题陈述,zh-CN
+Product Roadmap,产品路线图,zh-CN
+Qualitative Research,定性研究,zh-CN
+Quantitative Research,定量研究,zh-CN
+Sitemap,网站地图,zh-CN
+Stakeholder Interview,利益相关者访谈,zh-CN
+Storyboard,故事板,zh-CN
+Survey,问卷调查,zh-CN
+Task Analysis,任务分析,zh-CN
+Tree Testing,树测试,zh-CN
+User-Centered Design,以用户为中心的设计,zh-CN
+User Interview,用户访谈,zh-CN
+User Journey Map,用户旅程地图,zh-CN
+User Story,用户故事,zh-CN
+UX Strategy,UX策略,zh-CN
+UX Writing,UX写作,zh-CN
+Whiteboard Challenge,白板挑战,zh-CN
+Figma,Figma,zh-CN
+Sketch,Sketch,zh-CN
+Adobe XD,Adobe XD,zh-CN
+InVision,InVision,zh-CN
+ProtoPie,ProtoPie,zh-CN
+Principle,Principle,zh-CN
+Framer,Framer,zh-CN
+Zeplin,Zeplin,zh-CN
+F-Pattern,F模式,zh-CN
+Z-Pattern,Z模式,zh-CN
+Low Fidelity,低保真,zh-CN
+High Fidelity,高保真,zh-CN
+Skeuomorphism,拟物化,zh-CN
+Neumorphism,新拟态,zh-CN
+Glassmorphism,玻璃态,zh-CN
+Above the Scroll,滚动线上方,zh-CN
+Below the Scroll,滚动线下方,zh-CN
+First Click,首次点击,zh-CN
+Time on Task,任务耗时,zh-CN
+Success Rate,成功率,zh-CN
+Learnability,易学性,zh-CN
+Memorability,易记性,zh-CN
+Error Rate,错误率,zh-CN
+Satisfaction,满意度,zh-CN
+Conversion Rate,转化率,zh-CN
+Bounce Rate,跳出率,zh-CN
+Engagement Rate,参与度,zh-CN
+Retention Rate,留存率,zh-CN
+Churn Rate,流失率,zh-CN
+KPI,关键绩效指标,zh-CN
+Metric,指标,zh-CN
+Heuristic,启发式,zh-CN
+Design Principle,设计原则,zh-CN
+Best Practice,最佳实践,zh-CN
+Pattern Library,模式库,zh-CN
+Atomic Design,原子设计,zh-CN
+Component,组件,zh-CN
+Module,模块,zh-CN
+Template,模板,zh-CN
+Master Component,主组件,zh-CN
+Instance,实例,zh-CN
+Variant,变体,zh-CN
+Auto Layout,自动布局,zh-CN
+Constraint,约束,zh-CN
+Responsive,响应式,zh-CN
+Adaptive,自适应,zh-CN
+Fluid Design,流式设计,zh-CN
+Elastic Design,弹性设计,zh-CN
+Flexible Layout,灵活布局,zh-CN
+Fixed Layout,固定布局,zh-CN
+Design Handoff,设计交付,zh-CN
+Redline,红线标注,zh-CN
+Annotation,标注,zh-CN
+Design Spec,设计规范,zh-CN
+Design Asset,设计资产,zh-CN
+Developer Handoff,开发者交付,zh-CN
+North Star Metric,北极星指标,zh-CN
+OKR,目标与关键成果,zh-CN
+Value Proposition,价值主张,zh-CN
+Product Strategy,产品策略,zh-CN
+Value Proposition Canvas,价值主张画布,zh-CN
+Claymorphism,黏土拟态,zh-CN
+Gamification,游戏化,zh-CN
+Bento Box Layout,宫格布局,zh-CN
+Playful Minimalism,趣味极简,zh-CN
+Morphism,拟态设计,zh-CN
+A11y,A11y,zh-CN
+Screen Reader,屏幕阅读器,zh-CN
+WCAG,Web内容无障碍指南,zh-CN
+ARIA,无障碍富互联网应用,zh-CN
+Service Design,服务设计,zh-CN
+Touchpoint,触点,zh-CN
+Journey Mapping,旅程映射,zh-CN
+Service Blueprint,服务蓝图,zh-CN
+Frontstage,前台,zh-CN
+Backstage,后台,zh-CN
+DesignOps,设计运营,zh-CN
+Design System Governance,设计系统治理,zh-CN
+Version Control,版本控制,zh-CN
+Insight,洞察,zh-CN
+Finding,研究发现,zh-CN
+Assumption,假设,zh-CN
+Hypothesis,假说,zh-CN
+Edge Case,边缘案例,zh-CN
+Workshop,工作坊,zh-CN
+Cross-functional,跨职能,zh-CN
+Stakeholder Management,利益相关者管理,zh-CN
+Feedback Loop,反馈循环,zh-CN
+Nudge,助推,zh-CN
+Hook Model,上瘾模型,zh-CN
+Friction,摩擦力,zh-CN
+Delight,愉悦感,zh-CN
+Habit Formation,习惯养成,zh-CN
+Behavior Model,行为模型,zh-CN
+Choice Architecture,选择架构,zh-CN
+Trigger,触发器,zh-CN
+Leaderboard,排行榜,zh-CN
+Point System,积分系统,zh-CN
+Achievement,成就,zh-CN
+Reward,奖励,zh-CN
+Progress Tracking,进度追踪,zh-CN
+Onboarding Flow,入门流程,zh-CN
+Customer-Centric,以客户为中心,zh-CN
+Feature Flag,功能开关,zh-CN
+Smoke Test,冒烟测试,zh-CN
+Regression Testing,回归测试,zh-CN
+Design Review,设计评审,zh-CN
+Peer Review,同行评审,zh-CN
+Design Critique Session,设计评审会,zh-CN
+Discovery Phase,发现阶段,zh-CN
+Research Phase,研究阶段,zh-CN
+Synthesis,综合分析,zh-CN
+Design QA,设计质量保证,zh-CN
+Component Documentation,组件文档,zh-CN
+Design API,设计API,zh-CN
+Collaboration,协作,zh-CN
+Async Collaboration,异步协作,zh-CN
+Real-time Collaboration,实时协作,zh-CN
+Design Token System,设计令牌系统,zh-CN
+Semantic Token,语义令牌,zh-CN
+Global Token,全局令牌,zh-CN
+Alias Token,别名令牌,zh-CN
+Design Debt Management,设计债管理,zh-CN
+Refactoring,重构,zh-CN
+Legacy System,遗留系统,zh-CN
+Migration,迁移,zh-CN
+Backward Compatibility,向后兼容,zh-CN
+Deprecation,弃用,zh-CN
+Breaking Change,破坏性变更,zh-CN
+Changelog,更新日志,zh-CN
+Release Notes,发布说明,zh-CN
+Version History,版本历史,zh-CN
+Design Maturity,设计成熟度,zh-CN
+Design Adoption,设计采用,zh-CN
+Design Metrics,设计指标,zh-CN
+Impact Measurement,影响力测量,zh-CN
+ROI,投资回报率,zh-CN
+Design Value,设计价值,zh-CN
+Business Impact,业务影响,zh-CN
+User Satisfaction Score,用户满意度评分,zh-CN
+Net Promoter Score,净推荐值,zh-CN
+Customer Satisfaction,客户满意度,zh-CN
+Task Success Rate,任务成功率,zh-CN
+Error Prevention,错误预防,zh-CN
+Error Recovery,错误恢复,zh-CN
+Graceful Degradation,优雅降级,zh-CN
+Progressive Enhancement,渐进增强,zh-CN
+Fallback,降级方案,zh-CN
+Polyfill,垫片,zh-CN
+Cross-browser Compatibility,跨浏览器兼容性,zh-CN
+Browser Support,浏览器支持,zh-CN
+Device Fragmentation,设备碎片化,zh-CN
+Platform Consistency,平台一致性,zh-CN
+Native App,原生应用,zh-CN
+Hybrid App,混合应用,zh-CN
+Web App,Web应用,zh-CN
+Progressive Web App,渐进式Web应用,zh-CN
+Single Page Application,单页应用,zh-CN
+Multi-page Application,多页应用,zh-CN
+Server-side Rendering,服务端渲染,zh-CN
+Client-side Rendering,客户端渲染,zh-CN
+Static Site,静态网站,zh-CN
+Dynamic Content,动态内容,zh-CN
+Personalization,个性化,zh-CN
+Customization,自定义,zh-CN
+Localization,本地化,zh-CN
+Internationalization,国际化,zh-CN
+Right-to-Left,从右到左,zh-CN
+Left-to-Right,从左到右,zh-CN
+Bidirectional Text,双向文本,zh-CN
+Language Support,语言支持,zh-CN
+Translation,翻译,zh-CN
+Cultural Adaptation,文化适配,zh-CN

@@ -1,0 +1,61 @@
+{
+  "id": "ui-ux",
+  "name": "UI/UX Design Expert",
+  "description": "Specialized in UI/UX design terminology, including interface design, user experience, interaction design, and design systems.",
+  "author": "immersive",
+  "glossary": "ui-ux",
+  "matches": [
+    "medium.com",
+    "*.medium.com",
+    "dribbble.com",
+    "*.dribbble.com",
+    "behance.net",
+    "*.behance.net",
+    "figma.com",
+    "*.figma.com",
+    "uxdesigninstitute.com",
+    "*.uxdesigninstitute.com",
+    "nngroup.com",
+    "*.nngroup.com",
+    "smashingmagazine.com",
+    "*.smashingmagazine.com",
+    "alistapart.com",
+    "*.alistapart.com",
+    "uxdesign.cc",
+    "*.uxdesign.cc",
+    "careerfoundry.com",
+    "*.careerfoundry.com",
+    "interaction-design.org",
+    "*.interaction-design.org",
+    "designbetter.co",
+    "*.designbetter.co",
+    "uxpin.com",
+    "*.uxpin.com",
+    "uxplanet.org",
+    "*.uxplanet.org",
+    "designmodo.com",
+    "*.designmodo.com",
+    "sidebar.io",
+    "*.sidebar.io",
+    "designernews.co",
+    "*.designernews.co",
+    "invisionapp.com",
+    "*.invisionapp.com",
+    "uxmatters.com",
+    "*.uxmatters.com"
+  ],
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "UI/UX 设计",
+      "description": "UI/UX 设计术语库，包含界面设计、用户体验、交互设计和设计系统相关的专业术语。适用于 Medium、Dribbble、Behance、Figma 等设计平台和博客。"
+    },
+    "zh-TW": {
+      "name": "UI/UX 設計",
+      "description": "UI/UX 設計術語庫，包含介面設計、使用者體驗、互動設計和設計系統相關的專業術語。適用於 Medium、Dribbble、Behance、Figma 等設計平台和部落格。"
+    }
+  }
+}
